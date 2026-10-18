@@ -19,7 +19,7 @@ This project operates on a 100% automated, zero-maintenance cloud architecture:
 ## Local Installation
 If you wish to run this pipeline locally on your own machine:
 
-1. Clone the repository:
+1. Clone the repository: 
    `git clone https://github.com/spencermerolla12/etf-sentiment-engine.git`
 2. Install dependencies:
    `pip install -r requirements.txt`
